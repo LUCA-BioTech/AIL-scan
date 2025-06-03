@@ -1,0 +1,8 @@
+1：https://github.com/ctSkennerton/minced
+./minced input/GMBC10.002_143.fna output/GMBC10.002_143.txt output/GMBC10.002_143_repeat.gff
+
+2：
+sudo apt install prodigal
+
+prodigal -i input/GMBC10.002_143.fna -c -m -f gff -a output/GMBC10.002_143.faa -o output/GMBC10.002_143_gene.gff -p meta
+

@@ -1,0 +1,25 @@
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+GMBC10.002_143__k119_27954	minced:0.4.2	repeat_region	38	1448	23	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTCTGACAGTATATGTTAATTTCTACTCTCGTAGAT
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+GMBC10.002_143__k119_47003	minced:0.4.2	repeat_region	43	641	10	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATCTACGAGAGTAGAAATTAACATATACTGTCAGAC
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
+##gff-version 3
