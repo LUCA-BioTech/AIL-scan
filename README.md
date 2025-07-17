@@ -137,11 +137,11 @@ This project incorporates the following open-source tools and libraries. Their l
 
 | Tool/Library | License | Copyright | Code |
 |---------------|---------------|--------------------------|----------|
-| **minced** | [GPL v3](https://github.com/ctSkennerton/minced?tab=GPL-3.0-1-ov-file) | Copyright (c) 2011-2019  Florent Angly, Connor Skennerton | [GitHub](https://github.com/ctSkennerton/minced) |
-| **prodigal** | [GPL v3](https://github.com/hyattpd/Prodigal?tab=GPL-3.0-1-ov-file) | Copyright (C) 2010-2023 Doug Hyatt et al. | [GitHub](https://github.com/hyattpd/Prodigal) |
-| **esm2** | [MIT](https://github.com/facebookresearch/esm?tab=MIT-1-ov-file) | Copyright (c) 2021 Facebook AI Research (FAIR) | [GitHub](https://github.com/facebookresearch/esm) |
-| **deepspeed** | [Apache 2.0](https://github.com/deepspeedai/DeepSpeed?tab=Apache-2.0-1-ov-file)  | Copyright (c) 2020 Microsoft Corporation | [GitHub](https://github.com/deepspeedai/DeepSpeed) |
-| **accelerate** | [Apache 2.0](https://github.com/huggingface/accelerate?tab=Apache-2.0-1-ov-file) | Copyright (c) 2022 Hugging Face Inc. | [GitHub](https://github.com/huggingface/accelerate) |
+| **minced** | [GPL v3](https://github.com/ctSkennerton/minced?tab=GPL-3.0-1-ov-file) | Copyright (c) 2013-2019 Connor SKENNERTON | [GitHub](https://github.com/ctSkennerton/minced) |
+| **prodigal** | [GPL v3](https://github.com/hyattpd/Prodigal?tab=GPL-3.0-1-ov-file) | Copyright (C) 2007-2016 University of Tennessee/UT-Battelle | [GitHub](https://github.com/hyattpd/Prodigal) |
+| **esm2** | [MIT](https://github.com/facebookresearch/esm?tab=MIT-1-ov-file) | Copyright (c) 2022 Lin, Zeming and Akin et al. | [GitHub](https://github.com/facebookresearch/esm) |
+| **deepspeed** | [Apache 2.0](https://github.com/deepspeedai/DeepSpeed?tab=Apache-2.0-1-ov-file)  | Copyright (c) 2020-2025 DeepSpeed Team | [GitHub](https://github.com/deepspeedai/DeepSpeed) |
+| **accelerate** | [Apache 2.0](https://github.com/huggingface/accelerate?tab=Apache-2.0-1-ov-file) | Copyright (c) 2025 Hugging Face Inc. | [GitHub](https://github.com/huggingface/accelerate) |
 
 ## License Compatibility Statement
 
@@ -159,6 +159,7 @@ If you modify or distribute this project, ensure compliance with the licenses of
 # License
 This source code is licensed under the Apache-2.0 license found in the LICENSE file in the root directory of this source tree.
 
+Copyright 2025  Jin Tang, Peixiang Ma, Zhanwei Li & YongQian Li.
 
 
 
