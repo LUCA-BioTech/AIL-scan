@@ -135,12 +135,12 @@ Directly run test.py under the required environment. 0 indicates no trans-cleava
 
 This project incorporates the following open-source tools and libraries. Their licenses and copyright notices are detailed in the `LICENSES` directory:
 
-| Tool/Library Name | License Type | Copyright Notice | Official Repository |
-|-------------------|--------------|------------------|---------------------|
-| **minced** | [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) | Copyright (c) 2011-2019  Florent Angly, Connor Skennerton | [GitHub](https://github.com/ctSkennerton/minced) |
-| **prodigal** | [GNU GPL v3](https://github.com/ctSkennerton/minced?tab=GPL-3.0-1-ov-file) | Copyright (C) 2010-2023 Doug Hyatt et al. | [GitHub](https://github.com/hyattpd/Prodigal) |
+| Tool/Library Name | License Type | Copyright Notice | Code Path |
+|-------------------|----------------------|--------------------------|---------------------|
+| **minced** | [GNU GPL v3](https://github.com/ctSkennerton/minced?tab=GPL-3.0-1-ov-file) | Copyright (c) 2011-2019  Florent Angly, Connor Skennerton | [GitHub](https://github.com/ctSkennerton/minced) |
+| **prodigal** | [GNU GPL v3](https://github.com/hyattpd/Prodigal?tab=GPL-3.0-1-ov-file) | Copyright (C) 2010-2023 Doug Hyatt et al. | [GitHub](https://github.com/hyattpd/Prodigal) |
 | **esm2** | [MIT License](https://github.com/facebookresearch/esm?tab=MIT-1-ov-file) | Copyright (c) 2021 Facebook AI Research (FAIR) | [GitHub](https://github.com/facebookresearch/esm) |
-| **deepspeed** | [Apache License 2.0](https://github.com/deepspeedai/DeepSpeed?tab=Apache-2.0-1-ov-file)  | Copyright (c) 2020 Microsoft Corporation | [GitHub][(https://github.com/deepspeedai/DeepSpeed) |
+| **deepspeed** | [Apache License 2.0](https://github.com/deepspeedai/DeepSpeed?tab=Apache-2.0-1-ov-file)  | Copyright (c) 2020 Microsoft Corporation | [GitHub](https://github.com/deepspeedai/DeepSpeed) |
 | **accelerate** | [Apache License 2.0](https://github.com/huggingface/accelerate?tab=Apache-2.0-1-ov-file) | Copyright (c) 2022 Hugging Face Inc. | [GitHub](https://github.com/huggingface/accelerate) |
 
 
